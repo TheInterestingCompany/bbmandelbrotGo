@@ -1,5 +1,7 @@
 # bbmandelbrotGo
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/3db1c009-ce04-43c6-8363-83b4bd6e631f.svg?orgId=486973902855)](https://app.soluble.cloud/repos/details/github.com/theinterestingcompany/bbmandelbrotgo?orgId=486973902855)  
+
 [![Build Status](https://travis-ci.org/SimonWaldherr/bbmandelbrotGo.svg?branch=master)](https://travis-ci.org/SimonWaldherr/bbmandelbrotGo) 
 [![Coverage Status](https://coveralls.io/repos/SimonWaldherr/bbmandelbrotGo/badge.png)](https://coveralls.io/r/SimonWaldherr/bbmandelbrotGo) 
 [![Go Report Card](https://goreportcard.com/badge/github.com/simonwaldherr/bbmandelbrotGo)](https://goreportcard.com/report/github.com/simonwaldherr/bbmandelbrotGo) 
